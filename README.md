@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @theMan-tech
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning HTML5 CSS3 JavaScript
-- 💞️ I’m looking to collaborate on Front End 
-- 📫 How to reach me ... https://www.linkedin.com/in/leonardo-costa-540b0b192/
+Repositório dedicado ao curso de HTML-Css do site Curso em vídeo
+Curso feito por Gustavo Guanabara https://github.com/gustavoguanabara
 
 <!---
 theMan-tech/theMan-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
